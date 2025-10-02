@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: ReyLab.xyz
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: ReyLab.xyz
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Staking crypto is the process of locking up digital assets for a set period to help support the operations of a blockchain network and, in exchange, earning rewards. It is an alternative to cryptocurrency mining and is fundamental to blockchains that use."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: ReyLab.xyz
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -69,4 +69,4 @@ analytics:
       id: null # or "G-XXXXXXXXXX"
 
 ui:
-  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  theme: 'system' # Values: "system" | "dark" | "dark" | "dark:only" | "dark:only"
