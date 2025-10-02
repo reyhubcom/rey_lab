@@ -112,7 +112,7 @@ export const headerData = {
     },
     {
       text: 'Crypto Bubbles',
-      href: '/cryptobubbles',
+      href: '/homes/cryptobubbles',
     },
   ],
   actions: [{ text: 'Download', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
