@@ -41,14 +41,17 @@ const metadata = {
     </Fragment>
 
     <Fragment slot="subtitle">
-
-      <iframe src="https://cryptobubbles.net" width="1300px" height="800px" style="border: none" loading="lazy"></iframe>
       Step into the spotlight with <span class="font-semibold">Astrowind</span> templates, your pathway to fortifying your
       startup's digital footprint, fostering credibility, and expanding your reach.
     </Fragment>
 
     <Fragment slot="image">
-      
+      <YouTube id="gxBkghlglTg" title="Astro just Launched.... Could it be the ultimate web framework?" />
+      <style is:inline>
+        lite-youtube {
+          margin: 0 auto;
+          max-width: 100%;
+        }
       </style>
     </Fragment>
   </Hero>
